@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fe0f495e5d5992942bea608df62f7f62
+timeCreated: 1507788621
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TrajanusBricks
+  fontNames:
+  - TrajanusBricks
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

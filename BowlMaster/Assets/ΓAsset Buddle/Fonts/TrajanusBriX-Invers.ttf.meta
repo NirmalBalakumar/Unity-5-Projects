@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c2f5df5340a04a646a0aa830eb7eb906
+timeCreated: 1507788620
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TrajanusBriX-Invers
+  fontNames:
+  - TrajanusBriX-Invers
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
